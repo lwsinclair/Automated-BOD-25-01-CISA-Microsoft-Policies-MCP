@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dynamicendpoints-automated-bod-25-01-cisa-microsoft-policies-mcp-badge.png)](https://mseep.ai/app/dynamicendpoints-automated-bod-25-01-cisa-microsoft-policies-mcp)
+
 # CISA M365 MCP Server
 
 [![smithery badge](https://smithery.ai/badge/cisa-m365)](https://smithery.ai/server/cisa-m365)
